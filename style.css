@@ -257,9 +257,7 @@ body{
      line-height: 20px;
     }
     .container1{
-    background-image: url('https://i.pinimg.com/originals/4c/1e/b0/4c1eb0b6858419e117a42ab018094f1e.gif');
-    background-size: cover;
-    height: 100%;
+    
     }
     .content {
         position: relative;
